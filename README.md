@@ -1,4 +1,4 @@
-# Real-Time Notification & Recommendation Engine
+# Live Notification & Recommendation Engine
 
 Reactive backend built on Java 17 + Spring Boot + WebFlux with Kafka, Redis, and PostgreSQL.
 
